@@ -44,7 +44,10 @@
                 new Item(3, 20),
                 new Item(1, 30),
                 new Item(5, 15),
-                new Item(4, 25)
+                new Item(4, 25),
+                new Item(6, 5),
+                new Item(0, 0),
+                
         };
 
         printInvoice(items);
